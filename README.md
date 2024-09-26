@@ -102,6 +102,7 @@ Se realizaron las siguientes pruebas para verificar el correcto funcionamiento d
     - **Descripción**: Verifica que el controlador llama correctamente al servicio cuando recibe una solicitud con latitud y longitud.
     - **Resultado esperado**: El controlador debe retornar una respuesta JSON con los valores de temperatura y humedad.
 
+![image](https://github.com/user-attachments/assets/7588c3c5-5f4f-42e3-9425-13f281a40d27)
 
 ## Autores
 
